@@ -25,3 +25,11 @@ hs_err_pid*
 # Intellij IDE Config
 .idea
 *.sqlite
+
+# User defined
+.vscode/
+.vs/
+bin/
+obj/
+*.exe
+*.csv
